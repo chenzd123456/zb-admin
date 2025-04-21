@@ -2,7 +2,7 @@
 
 ## 1. 项目概览
 - [PROJECT_ANALYSIS.md](./PROJECT_ANALYSIS.md) - 项目整体分析
-- [ARCHITECTURE.md](./guide/ARCHITECTURE.md) - 系统架构设计
+- [ARCHITECTURE.md](./ARCHITECTURE.md) - 系统架构设计
 
 ## 2. 核心模块
 - [CORE_MODULES_ANALYSIS.md](./CORE_MODULES_ANALYSIS.md) - 核心业务模块分析
@@ -10,10 +10,12 @@
 - [VIEWS_ANALYSIS.md](./VIEWS_ANALYSIS.md) - 视图层分析
 
 ## 3. 开发指南
-- [API.md](./guide/API.md) - 接口规范
-- [ROUTER.md](./guide/ROUTER.md) - 路由配置
-- [COMPONENTS.md](./guide/COMPONENTS.md) - 组件规范
-- [PERMISSION.md](./guide/PERMISSION.md) - 权限系统
+- [API.md](./API.md) - 接口规范
+- [UTILS.md](./UTILS.md) - 工具函数文档
+- [CONFIG.md](./CONFIG.md) - 项目配置
+- [ROUTER.md](./ROUTER.md) - 路由配置
+- [COMPONENTS.md](./COMPONENTS.md) - 组件规范
+- [PERMISSION.md](./PERMISSION.md) - 权限系统
 
 ## 4. 快速导航
 ```mermaid
